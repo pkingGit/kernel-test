@@ -1,0 +1,5 @@
+linux-upstream (5.15.67test-project0-kernel1+-1) bullseye; urgency=low
+
+  * Custom built Linux kernel.
+
+ -- pking <pking@cmsc421-3.hdihome.com>  Mon, 22 Sep 2025 23:02:32 -0400
